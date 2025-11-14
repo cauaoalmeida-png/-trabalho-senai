@@ -1,1 +1,5 @@
+git checkout -b feature-funcionalidades
 
+echo "1. Implementar nova interface de usuário." >> funcionalidades.txt
+echo "2. Otimizar o carregamento das páginas." >> funcionalidades.txt
+echo "3. Adicionar sistema de login com autenticação." >> funcionalidades.txt
