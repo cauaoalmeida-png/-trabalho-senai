@@ -1,1 +1,9 @@
+git add funcionalidades.txt
+git commit -m "Adicionar três novas funcionalidades no arquivo funcionalidades.txt"
+
+echo "4. Ajustar responsividade do layout." >> funcionalidades.txt
+git add funcionalidades.txt
+git commit -m "Adicionar item extra de melhoria de responsividade"
+
+git push -u origin feature-funcionalidades
 
